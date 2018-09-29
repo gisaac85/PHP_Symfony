@@ -19,6 +19,7 @@
       <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/psr/log" />
       <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/psr/simple-cache" />
       <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/sensiolabs/security-checker" />
       <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/symfony/cache" />
       <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/symfony/config" />
       <excludeFolder url="file://$MODULE_DIR$/first_app/vendor/symfony/console" />
