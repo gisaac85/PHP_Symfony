@@ -25,6 +25,16 @@
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/yaml" />
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/web-server-bundle" />
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/first_app/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/first_app/vendor/sensio/framework-extra-bundle" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
