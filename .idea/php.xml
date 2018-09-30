@@ -44,6 +44,11 @@
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/profiler-pack" />
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/web-profiler-bundle" />
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/first_app/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/first_app/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/first_app/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/first_app/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/first_app/vendor/symfony/debug-bundle" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
