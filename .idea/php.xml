@@ -49,6 +49,7 @@
       <path value="$PROJECT_DIR$/first_app/vendor/monolog/monolog" />
       <path value="$PROJECT_DIR$/first_app/vendor/easycorp/easy-log-handler" />
       <path value="$PROJECT_DIR$/first_app/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/first_app/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
